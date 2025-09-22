@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925125139272",
+    "project_id": "tajawob-3c3e1",
+    "storage_bucket": "tajawob-3c3e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925125139272:android:184535497f98fa9df3f17d",
+        "android_client_info": {
+          "package_name": "io.mxapps.nscp104"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2eiHzh1hicM2IJX6uud5QI4yDF9pDtAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
