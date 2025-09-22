@@ -132,10 +132,10 @@
             "enabled": false
         },
         "firebaseAndroid": {
-            "enabled": false
+            "enabled": true
         },
         "firebaseIos": {
-            "enabled": false
+            "enabled": true
         },
         "localNotifications": {
             "enabled": false
